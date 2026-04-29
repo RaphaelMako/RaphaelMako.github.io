@@ -1,11 +1,11 @@
 module.exports = function (eleventyConfig) {
     // Copy 'public' folder to '_site/public'
-    // eleventyConfig.addPassthroughCopy("./public/");
+    eleventyConfig.addPassthroughCopy("./public/");
     return {
         dir: {
-            input: "blog_src",
+            input: ".",
             includes: "_includes",
-            output: "blog" // This is what GitHub Pages will serve
+            output: "_site" // This is what GitHub Pages will serve
         }
     };
 };
