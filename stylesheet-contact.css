@@ -1,0 +1,68 @@
+/*CSS Style sheet */
+@font-face {
+  font-family: Crete;
+  src: url(fonts/CreteRound-Regular.ttf);
+}
+
+body {
+  padding: 0px !important;
+}
+
+.screen {
+  border: 1.5vh solid white !important;
+  height: 100vh;
+  margin: 0px !important;
+  width: 100%;
+}
+
+#shoot {
+  font-family: Crete;
+  font-size: 20px;
+  position: absolute;
+  top: 20%;
+  left: 25%;
+}
+
+input {
+  font-family: Crete;
+  font-size: 20px;
+  position: absolute;
+  top: 81%;
+  right: 25%;
+  border: 2px solid black;
+  background-color: white;
+}
+
+#homeButton {
+  color: black;
+  font-family: Crete;
+  text-decoration: none;
+}
+
+#name {
+  position: absolute;
+  top: 24%;
+  left: 25%;
+}
+
+#email {
+  position: absolute;
+  top: 29%;
+  left: 25%;
+}
+textarea {
+  border: 2px solid black;
+  font-family: Crete;
+  width: 50%;
+  height: 45vh;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -35%);
+  resize: none !important;
+  padding: 10px;
+}
+
+form {
+  resize: none;
+}

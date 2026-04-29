@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.boid {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: black;
+  border-radius: 50%;
+}

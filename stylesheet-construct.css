@@ -1,0 +1,33 @@
+/*CSS Style sheet */
+@font-face {
+  font-family: Concert;
+  src: url(fonts/ConcertOne-Regular.ttf);
+}
+
+body {
+  padding: 0px !important;
+  background-color: #ffdd28 !important;
+  /* border:  solid white !important; */
+  /* height: 100vh !important; */
+  /* overflow: hidden; */
+}
+
+.screen {
+  border: 1.5vh solid white !important;
+  height: 100vh;
+  margin: 0px !important;
+  width: 100%;
+}
+
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Concert;
+  font-size: 90px !important;
+  color: #ea0000;
+  text-align: center;
+  margin-top: 25%;
+  text-shadow: rgb(0, 0, 0, 0.25) 2px 5px;
+}
