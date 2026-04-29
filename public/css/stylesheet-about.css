@@ -1,7 +1,7 @@
 /*CSS Style sheet */
 @font-face {
   font-family: Crete;
-  src: url(fonts/CreteRound-Regular.ttf);
+  src: url(../fonts/CreteRound-Regular.ttf);
 }
 
 body {
