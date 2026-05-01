@@ -1,3 +1,5 @@
+const markdownIt = require("markdown-it");
+
 module.exports = function (eleventyConfig) {
     // Copy 'public' folder to '_site/public'
     eleventyConfig.addPassthroughCopy("./public/");
@@ -8,4 +10,13 @@ module.exports = function (eleventyConfig) {
             output: "_site" // This is what GitHub Pages will serve
         }
     };
+
+    let options = {
+        html: true,
+        breaks: true,
+        linkify: true,
+    };
+
+    eleventyConfig.setLibrary("md", markdownIt(options));
+
 };

@@ -1,0 +1,10 @@
+---
+layout: layouts/base.njk
+title: My Projects
+---
+<h1 class="cabin-bold">Everything Here is Built By Hand</h1>
+<ul>
+    {% for item in collections.projects %}
+    <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+    {% endfor %}
+</ul>
