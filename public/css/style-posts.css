@@ -75,3 +75,23 @@ h1 {
   font-size: 4rem;
   color: #476243;
 }
+
+.footnotes {
+  margin-top: 3rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+  font-size: 1rem;
+  color: #6f6f6f;
+}
+
+.footnotes ol {
+  padding-left: 1.5rem;
+}
+
+.footnotes a {
+  color: #476243;
+}
+
+p + p {
+  margin-top: 1.5rem;
+}

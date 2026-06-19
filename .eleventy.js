@@ -1,8 +1,11 @@
 const markdownIt = require("markdown-it");
+const markdownItFootnote = require("markdown-it-footnote");
+
 
 module.exports = function (eleventyConfig) {
     // Copy 'public' folder to '_site/public'
     eleventyConfig.addPassthroughCopy("./public/");
+    const md = markdownIt({ html: true }).use(markdownItFootnote);
     return {
         dir: {
             input: ".",
@@ -17,6 +20,6 @@ module.exports = function (eleventyConfig) {
         linkify: true,
     };
 
-    eleventyConfig.setLibrary("md", markdownIt(options));
+    eleventyConfig.setLibrary("md", md);
 
 };
