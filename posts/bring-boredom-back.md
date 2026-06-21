@@ -24,7 +24,6 @@ Our inability to push through the pain of boredom extends itself to a broader in
 [^4]: Social Media Addiction and Mental Health: The Growing Concern for Youth Well-Being https://law.stanford.edu/2024/05/20/social-media-addiction-and-mental-health-the-growing-concern-for-youth-well-being/
 
 ### If you are interested in looking more into this conversation, I have provided a bunch of the links I got inspiration from while writing this post.
-Ah, I understand now! My apologies for shortening them. Here is the corrected plain-text list with the full, direct URLs included in the brackets so they can be copied and pasted directly into your .txt file:
 
 Are Attention Spans Really Shrinking? What the Science Says (https://www.scientificamerican.com/article/are-attention-spans-really-shrinking-what-the-science-says/)
 Boredom gets a bad rap, but science says it can actually be good for us (https://www.unisc.edu.au/about/unisc-news/news-archive/2025/may/boredom-gets-a-bad-rap-but-science-says-it-can-actually-be-good-for-us)
