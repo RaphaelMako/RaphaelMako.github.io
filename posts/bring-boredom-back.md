@@ -1,5 +1,5 @@
 ---
-title: We Need to be Bored Again
+title: Bring Boredom Back
 "layout": "layouts/post.njk"
 date: 2026-05-05
 ---
