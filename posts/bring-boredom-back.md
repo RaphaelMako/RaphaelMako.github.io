@@ -25,7 +25,7 @@ Our inability to push through the pain of boredom extends itself to a broader in
 [^1]: [Britons are less bored than they used to be. This is bad](https://www.economist.com/britain/2026/04/05/britons-are-less-bored-than-they-used-to-be-this-is-bad?__cf_chl_rt_tk=SspjIOtbqxfxMXT0syyhM9YKRGKn7h64aGneribGvDU-1782084445-1.0.1.1-l7A8oIQLTIvu4z6Ac1vFmrFl11hHt8pWxoc11I3fmhU)
 [^2]: [Teens are spending nearly 5 hours daily on social media. Here are the mental health outcomes](https://www.apa.org/monitor/2024/04/teen-social-use-mental-health)
 [^3]: [Social Media and Youth Mental Health: The U.S. Surgeon General’s Advisory](https://www.ncbi.nlm.nih.gov/books/NBK594759/)
-[^4]: [Social Media Addiction and Mental Health: The Growing Concern for Youth Well-Being](https://law.stanford.edu/2024/05/20/)social-media-addiction-and-mental-health-the-growing-concern-for-youth-well-being/
+[^4]: [Social Media Addiction and Mental Health: The Growing Concern for Youth Well-Being](https://law.stanford.edu/2024/05/20/social-media-addiction-and-mental-health-the-growing-concern-for-youth-well-being/)
 
 <div class="further-reading">
 

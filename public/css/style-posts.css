@@ -90,13 +90,16 @@ p + p {
   padding-top: 1rem;
   border-top: 1px solid #ccc;
   font-size: 1rem;
-  color: #6f6f6f;
+  color: #476243;
   text-align: left;
+  text-decoration: none;
 }
 
 .footnotes p {
   font-size: 1rem;
   text-align: left;
+  color: #476243;
+  text-decoration: none;
 }
 
 .footnotes ol {
