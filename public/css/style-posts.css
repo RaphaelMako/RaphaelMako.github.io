@@ -3,38 +3,13 @@
   src: url(../fonts/CreteRound-Regular.ttf);
 }
 
-.cabin-thin {
-  font-family: "Cabin", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 200;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-}
+/* Cabin weight utility classes */
+.cabin-thin   { font-family: "Cabin", sans-serif; font-weight: 200; font-optical-sizing: auto; font-variation-settings: "wdth" 100; }
+.cabin-normal { font-family: "Cabin", sans-serif; font-weight: 400; font-optical-sizing: auto; font-variation-settings: "wdth" 100; }
+.cabin-thick  { font-family: "Cabin", sans-serif; font-weight: 600; font-optical-sizing: auto; font-variation-settings: "wdth" 100; }
+.cabin-bold   { font-family: "Cabin", sans-serif; font-weight: 800; font-optical-sizing: auto; font-variation-settings: "wdth" 100; }
 
-.cabin-normal {
-  font-family: "Cabin", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-}
-
-.cabin-thick {
-  font-family: "Cabin", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-}
-
-.cabin-bold {
-  font-family: "Cabin", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-}
-
+/* Layout */
 body {
   padding: 4rem;
 }
@@ -43,23 +18,15 @@ body {
   display: flex;
 }
 
-p {
-  font-size: 1.5rem;
-  font-family: "Cabin", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-  line-height: 2.25rem;
-  text-align: justify;
-}
-
 .left {
   flex: 4;
+  display: flex;
+  flex-direction: column;
 }
+
 .right {
-  font-family: "Cabin";
   flex: 1;
+  font-family: "Cabin", sans-serif;
   justify-content: end;
   text-align: right;
 }
@@ -69,65 +36,69 @@ p {
   color: #6f6f6f;
 }
 
-h1 {
-  margin-top: 0;
-  text-align: left;
-  font-size: 4rem;
-  color: #476243;
-}
-
-.footnotes {
-  margin-top: 3rem;
-  border-top: 1px solid #ccc;
-  padding-top: 1rem;
-  font-size: 1rem;
-  color: #6f6f6f;
-}
-
-.footnotes ol {
-  padding-left: 1.5rem;
-}
-
-.footnotes a {
-  color: #476243;
+/* Typography */
+p {
+  font-family: "Cabin", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.25rem;
+  font-optical-sizing: auto;
+  font-variation-settings: "wdth" 100;
 }
 
 p + p {
   margin-top: 1.5rem;
 }
 
-h1, h2, h3 {
+.left h1,
+.left h2,
+.left h3 {
   font-family: "Cabin", sans-serif;
   color: #476243;
 }
 
-/* Justified essay text */
-.left > p {
+.left h1 {
+  margin-top: 0;
+  font-size: 4rem;
+  text-align: left;
+}
+
+/* Section ordering: essay → footnotes → further-reading */
+.essay           { order: 1; }
+.footnotes       { order: 2; }
+.further-reading { order: 3; }
+
+/* Essay justified, further reading left-aligned */
+.essay p {
   text-align: justify;
 }
 
-/* Footnote block — left aligned, smaller */
-.footnotes {
+.further-reading p {
   text-align: left;
+}
+
+/* Footnotes block */
+.footnotes {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ccc;
   font-size: 1rem;
   color: #6f6f6f;
-  margin-top: 2rem;
-  border-top: 1px solid #ccc;
-  padding-top: 1rem;
+  text-align: left;
 }
 
 .footnotes p {
-  text-align: left;
   font-size: 1rem;
-}
-
-/* Further reading section — left aligned */
-h3 + ul, h3 + p {
   text-align: left;
 }
 
-/* Green superscript footnote numbers in the essay */
-sup a {
+.footnotes ol {
+  padding-left: 1.5rem;
+}
+
+/* Green footnote superscripts in the essay */
+.footnote-ref a,
+.footnote-ref a:visited {
   color: #476243;
   text-decoration: none;
 }

@@ -4,6 +4,8 @@ title: Bring Boredom Back
 date: 2026-05-05
 ---
 
+<div class="essay">
+
 The other day I read an article in The Economist that particularly affected me: _Britons are less bored than they used to be. This is bad_[^1]. It took me by surprise because I couldn’t remember the last time I felt that dull sense of boredom. Growing up it seemed to surround me on long car rides, or sweaty summer days. I absolutely dreaded the feeling, the slow whittling down of life, the burden of nothingness. And yet, now I missed it. It would be a gross understatement to say social media has fundamentally changed the way we interact with each other and the world; but I am most interested in how it has changed our relationship to ourselves and what this means for the future. In an age where AI is becoming more prevalent in our lives and it is able to outsource cognitive load and knowledge creation, I fear there is a real concern that we may forget how to think and learn, but this doesn’t have to be the case.
 
 I grew up just as social media was taking off and it was still relatively unsophisticated. At 13 I had a Facebook account, but at that time it was just used to induce fomo in your friends, and post highly filtered photos of yourself. What this meant was that while social media was present in my high school years it didn’t consume me. But this isn’t the case for the teens of today. Some studies have found teenagers spending on average 4.8 hours a day on social media along with a checklist of mental health disorders and psychological imbalances[^2]. Despite the fact older generations have criticized the habits of the young throughout all of humanity (before social media it was video games, before video games it was cassettes, I’m sure all the way back to those darn teens never peeling their eyes off of fire), this time it’s markedly different.
@@ -18,11 +20,14 @@ This leads to my big concern. With the advent of AI we have a whole new wave of 
 
 Our inability to push through the pain of boredom extends itself to a broader inability to moderate our impulses. Now with AI, we can once more avoid the pain of thinking by simply getting AI to do it for us. But this is a mistake. If we give into the urge to take shortcuts we leave ourselves vulnerable to forgetting how to think altogether. We will convince ourselves that a small shortcut here is not much worse than a small shortcut there, much like a small bite of a cake can end up being a large portion if we keep letting ourselves “have just a little bit more”. Worst of all, I worry how these tools will impact future generations of kids who will never not have access to them. Perhaps they will have much stronger characters than us since they will be forced to grow up in a world with everything at their disposal. However, testing to see what happens is not something I think is worth the risk. We have already seen how kids use social media and the deleterious effects it has on their psyche, now supercharge that with a tool that can allow them to stop thinking altogether, and who knows what could happen. I certainly don’t want to chance finding out.
 
+</div>
+
 [^1]: Britons are less bored than they used to be. This is bad https://www.economist.com/britain/2026/04/05/britons-are-less-bored-than-they-used-to-be-this-is-bad?__cf_chl_rt_tk=SspjIOtbqxfxMXT0syyhM9YKRGKn7h64aGneribGvDU-1782084445-1.0.1.1-l7A8oIQLTIvu4z6Ac1vFmrFl11hHt8pWxoc11I3fmhU
 [^2]: Teens are spending nearly 5 hours daily on social media. Here are the mental health outcomes https://www.apa.org/monitor/2024/04/teen-social-use-mental-health
 [^3]: Social Media and Youth Mental Health: The U.S. Surgeon General’s Advisory https://www.ncbi.nlm.nih.gov/books/NBK594759/
 [^4]: Social Media Addiction and Mental Health: The Growing Concern for Youth Well-Being https://law.stanford.edu/2024/05/20/social-media-addiction-and-mental-health-the-growing-concern-for-youth-well-being/
 
+<div class="further-reading">
 ### If you are interested in looking more into this conversation, I have provided a bunch of the links I got inspiration from while writing this post.
 
 Are Attention Spans Really Shrinking? What the Science Says (https://www.scientificamerican.com/article/are-attention-spans-really-shrinking-what-the-science-says/)
@@ -38,3 +43,5 @@ The "Invisible Hand" of Social Media Platforms: An Economic-Sociological Approac
 The relationship between digital screen time and neurodevelopmental outcomes in children: A systematic review (https://pubmed.ncbi.nlm.nih.gov/35430923/)
 The Science Behind Boredom: Why Kids Need Down Time (https://www.buildingbrains.ca/blog/the-science-behind-boredom-why-kids-need-down-time)
 Why you can't pay attention anymore — and how to fix it (https://www.npr.org/transcripts/nx-s1-5775917)
+
+</div>
