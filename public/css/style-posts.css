@@ -56,6 +56,10 @@ p + p {
   color: #476243;
 }
 
+.left h2 {
+  font-size: 2rem;
+}
+
 .left h1 {
   margin-top: 0;
   font-size: 4rem;
@@ -107,7 +111,9 @@ p + p {
 }
 
 .footnote-ref a,
-.footnote-ref a:visited {
+.footnote-ref a:visited,
+.footnotes a,
+footnotes a:visited {
   color: #476243;
   text-decoration: none;
 }
