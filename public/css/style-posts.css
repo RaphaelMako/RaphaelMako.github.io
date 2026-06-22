@@ -36,7 +36,6 @@ body {
   color: #6f6f6f;
 }
 
-/* Typography */
 p {
   font-family: "Cabin", sans-serif;
   font-size: 1.5rem;
@@ -63,12 +62,10 @@ p + p {
   text-align: left;
 }
 
-/* Section ordering: essay → footnotes → further-reading */
 .essay           { order: 1; }
 .footnotes       { order: 2; }
 .further-reading { order: 3; }
 
-/* Essay justified, further reading left-aligned */
 .essay p {
   text-align: justify;
 }
@@ -77,7 +74,17 @@ p + p {
   text-align: left;
 }
 
-/* Footnotes block */
+.further-reading ul {
+  font-family: "Cabin", sans-serif;
+  font-size: 1.25rem;
+  line-height: 2rem;
+  padding-left: 1.5rem;
+}
+
+.further-reading a {
+  color: #476243;
+}
+
 .footnotes {
   margin-top: 2rem;
   padding-top: 1rem;
@@ -96,7 +103,6 @@ p + p {
   padding-left: 1.5rem;
 }
 
-/* Green footnote superscripts in the essay */
 .footnote-ref a,
 .footnote-ref a:visited {
   color: #476243;

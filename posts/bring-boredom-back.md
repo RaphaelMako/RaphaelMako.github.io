@@ -28,20 +28,21 @@ Our inability to push through the pain of boredom extends itself to a broader in
 [^4]: Social Media Addiction and Mental Health: The Growing Concern for Youth Well-Being https://law.stanford.edu/2024/05/20/social-media-addiction-and-mental-health-the-growing-concern-for-youth-well-being/
 
 <div class="further-reading">
+
 ### If you are interested in looking more into this conversation, I have provided a bunch of the links I got inspiration from while writing this post.
 
-Are Attention Spans Really Shrinking? What the Science Says (https://www.scientificamerican.com/article/are-attention-spans-really-shrinking-what-the-science-says/)
-Boredom gets a bad rap, but science says it can actually be good for us (https://www.unisc.edu.au/about/unisc-news/news-archive/2025/may/boredom-gets-a-bad-rap-but-science-says-it-can-actually-be-good-for-us)
-Brain health consequences of digital technology use (https://pmc.ncbi.nlm.nih.gov/articles/PMC10226546/)
-How the invention of infinite scrolling turned millions to addiction (https://medium.com/design-bootcamp/how-the-invention-of-infinite-scrolling-turned-millions-to-addiction-3096602ef9af)
-Productive Friction: The Future of Learning with an AI-Driven Approach (https://genio.co/blog/productive-friction-future-learning-ai-driven-approach)
-Screen Time and the Brain (https://hms.harvard.edu/news-events/publications-archive/brain/screen-time-brain)
-Screens are changing young brains: Canada needs a plan (https://braincanada.ca/about/news-updates/screens-are-changing-young-brains-canada-needs-a-plan)
-Social media copies gambling methods to create psychological cravings (https://ihpi.umich.edu/news/social-media-copies-gambling-methods-create-psychological-cravings)
-Speaking of Psychology: Why our attention spans are shrinking, with Gloria Mark, PhD (https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans)
-The "Invisible Hand" of Social Media Platforms: An Economic-Sociological Approach to Digital Addiction (https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/)
-The relationship between digital screen time and neurodevelopmental outcomes in children: A systematic review (https://pubmed.ncbi.nlm.nih.gov/35430923/)
-The Science Behind Boredom: Why Kids Need Down Time (https://www.buildingbrains.ca/blog/the-science-behind-boredom-why-kids-need-down-time)
-Why you can't pay attention anymore — and how to fix it (https://www.npr.org/transcripts/nx-s1-5775917)
+- [Are Attention Spans Really Shrinking? What the Science Says] (https://www.scientificamerican.com/article/are-attention-spans-really-shrinking-what-the-science-says/)
+- [Boredom gets a bad rap, but science says it can actually be good for us] (https://www.unisc.edu.au/about/unisc-news/news-archive/2025/may/boredom-gets-a-bad-rap-but-science-says-it-can-actually-be-good-for-us)
+- [Brain health consequences of digital technology use] (https://pmc.ncbi.nlm.nih.gov/articles/PMC10226546/)
+- [How the invention of infinite scrolling turned millions to addiction] (https://medium.com/design-bootcamp/how-the-invention-of-infinite-scrolling-turned-millions-to-addiction-3096602ef9af)
+- [Productive Friction: The Future of Learning with an AI-Driven Approach] (https://genio.co/blog/productive-friction-future-learning-ai-driven-approach)
+- [Screen Time and the Brain] (https://hms.harvard.edu/news-events/publications-archive/brain/screen-time-brain)
+- [Screens are changing young brains: Canada needs a plan] (https://braincanada.ca/about/news-updates/screens-are-changing-young-brains-canada-needs-a-plan)
+- [Social media copies gambling methods to create psychological cravings] (https://ihpi.umich.edu/news/social-media-copies-gambling-methods-create-psychological-cravings)
+- [Speaking of Psychology: Why our attention spans are shrinking, with Gloria Mark, PhD] (https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans)
+- [The "Invisible Hand" of Social Media Platforms: An Economic-Sociological Approach to Digital Addiction] (https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/)
+- [The relationship between digital screen time and neurodevelopmental outcomes in children: A systematic review] (https://pubmed.ncbi.nlm.nih.gov/35430923/)
+- [The Science Behind Boredom: Why Kids Need Down Time] (https://www.buildingbrains.ca/blog/the-science-behind-boredom-why-kids-need-down-time)
+- [Why you can't pay attention anymore — and how to fix it] (https://www.npr.org/transcripts/nx-s1-5775917)
 
 </div>
