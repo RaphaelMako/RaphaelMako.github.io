@@ -29,7 +29,7 @@ Our inability to push through the pain of boredom extends itself to a broader in
 
 <div class="further-reading">
 
-### If you are interested in looking more into this conversation, I have provided a bunch of the links I got inspiration from while writing this post.
+## If you are interested in looking more into this conversation, I have provided a bunch of the links I got inspiration from while writing this post.
 
 - [Are Attention Spans Really Shrinking? What the Science Says](https://www.scientificamerican.com/article/are-attention-spans-really-shrinking-what-the-science-says/)
 - [Boredom gets a bad rap, but science says it can actually be good for us](https://www.unisc.edu.au/about/unisc-news/news-archive/2025/may/boredom-gets-a-bad-rap-but-science-says-it-can-actually-be-good-for-us)
