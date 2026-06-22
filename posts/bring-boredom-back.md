@@ -22,27 +22,27 @@ Our inability to push through the pain of boredom extends itself to a broader in
 
 </div>
 
-[^1]: Britons are less bored than they used to be. This is bad https://www.economist.com/britain/2026/04/05/britons-are-less-bored-than-they-used-to-be-this-is-bad?__cf_chl_rt_tk=SspjIOtbqxfxMXT0syyhM9YKRGKn7h64aGneribGvDU-1782084445-1.0.1.1-l7A8oIQLTIvu4z6Ac1vFmrFl11hHt8pWxoc11I3fmhU
-[^2]: Teens are spending nearly 5 hours daily on social media. Here are the mental health outcomes https://www.apa.org/monitor/2024/04/teen-social-use-mental-health
-[^3]: Social Media and Youth Mental Health: The U.S. Surgeon General’s Advisory https://www.ncbi.nlm.nih.gov/books/NBK594759/
-[^4]: Social Media Addiction and Mental Health: The Growing Concern for Youth Well-Being https://law.stanford.edu/2024/05/20/social-media-addiction-and-mental-health-the-growing-concern-for-youth-well-being/
+[^1]: [Britons are less bored than they used to be. This is bad](https://www.economist.com/britain/2026/04/05/britons-are-less-bored-than-they-used-to-be-this-is-bad?__cf_chl_rt_tk=SspjIOtbqxfxMXT0syyhM9YKRGKn7h64aGneribGvDU-1782084445-1.0.1.1-l7A8oIQLTIvu4z6Ac1vFmrFl11hHt8pWxoc11I3fmhU)
+[^2]: [Teens are spending nearly 5 hours daily on social media. Here are the mental health outcomes](https://www.apa.org/monitor/2024/04/teen-social-use-mental-health)
+[^3]: [Social Media and Youth Mental Health: The U.S. Surgeon General’s Advisory](https://www.ncbi.nlm.nih.gov/books/NBK594759/)
+[^4]: [Social Media Addiction and Mental Health: The Growing Concern for Youth Well-Being](https://law.stanford.edu/2024/05/20/)social-media-addiction-and-mental-health-the-growing-concern-for-youth-well-being/
 
 <div class="further-reading">
 
 ### If you are interested in looking more into this conversation, I have provided a bunch of the links I got inspiration from while writing this post.
 
-- [Are Attention Spans Really Shrinking? What the Science Says] (https://www.scientificamerican.com/article/are-attention-spans-really-shrinking-what-the-science-says/)
-- [Boredom gets a bad rap, but science says it can actually be good for us] (https://www.unisc.edu.au/about/unisc-news/news-archive/2025/may/boredom-gets-a-bad-rap-but-science-says-it-can-actually-be-good-for-us)
-- [Brain health consequences of digital technology use] (https://pmc.ncbi.nlm.nih.gov/articles/PMC10226546/)
-- [How the invention of infinite scrolling turned millions to addiction] (https://medium.com/design-bootcamp/how-the-invention-of-infinite-scrolling-turned-millions-to-addiction-3096602ef9af)
-- [Productive Friction: The Future of Learning with an AI-Driven Approach] (https://genio.co/blog/productive-friction-future-learning-ai-driven-approach)
-- [Screen Time and the Brain] (https://hms.harvard.edu/news-events/publications-archive/brain/screen-time-brain)
-- [Screens are changing young brains: Canada needs a plan] (https://braincanada.ca/about/news-updates/screens-are-changing-young-brains-canada-needs-a-plan)
-- [Social media copies gambling methods to create psychological cravings] (https://ihpi.umich.edu/news/social-media-copies-gambling-methods-create-psychological-cravings)
-- [Speaking of Psychology: Why our attention spans are shrinking, with Gloria Mark, PhD] (https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans)
-- [The "Invisible Hand" of Social Media Platforms: An Economic-Sociological Approach to Digital Addiction] (https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/)
-- [The relationship between digital screen time and neurodevelopmental outcomes in children: A systematic review] (https://pubmed.ncbi.nlm.nih.gov/35430923/)
-- [The Science Behind Boredom: Why Kids Need Down Time] (https://www.buildingbrains.ca/blog/the-science-behind-boredom-why-kids-need-down-time)
-- [Why you can't pay attention anymore — and how to fix it] (https://www.npr.org/transcripts/nx-s1-5775917)
+- [Are Attention Spans Really Shrinking? What the Science Says](https://www.scientificamerican.com/article/are-attention-spans-really-shrinking-what-the-science-says/)
+- [Boredom gets a bad rap, but science says it can actually be good for us](https://www.unisc.edu.au/about/unisc-news/news-archive/2025/may/boredom-gets-a-bad-rap-but-science-says-it-can-actually-be-good-for-us)
+- [Brain health consequences of digital technology use](https://pmc.ncbi.nlm.nih.gov/articles/PMC10226546/)
+- [How the invention of infinite scrolling turned millions to addiction](https://medium.com/design-bootcamp/how-the-invention-of-infinite-scrolling-turned-millions-to-addiction-3096602ef9af)
+- [Productive Friction: The Future of Learning with an AI-Driven Approach](https://genio.co/blog/productive-friction-future-learning-ai-driven-approach)
+- [Screen Time and the Brain](https://hms.harvard.edu/news-events/publications-archive/brain/screen-time-brain)
+- [Screens are changing young brains: Canada needs a plan](https://braincanada.ca/about/news-updates/screens-are-changing-young-brains-canada-needs-a-plan)
+- [Social media copies gambling methods to create psychological cravings](https://ihpi.umich.edu/news/social-media-copies-gambling-methods-create-psychological-cravings)
+- [Speaking of Psychology: Why our attention spans are shrinking, with Gloria Mark, PhD](https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans)
+- [The "Invisible Hand" of Social Media Platforms: An Economic-Sociological Approach to Digital Addiction](https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/)
+- [The relationship between digital screen time and neurodevelopmental outcomes in children: A systematic review](https://pubmed.ncbi.nlm.nih.gov/35430923/)
+- [The Science Behind Boredom: Why Kids Need Down Time](https://www.buildingbrains.ca/blog/the-science-behind-boredom-why-kids-need-down-time)
+- [Why you can't pay attention anymore — and how to fix it](https://www.npr.org/transcripts/nx-s1-5775917)
 
 </div>
